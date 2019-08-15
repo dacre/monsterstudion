@@ -3,11 +3,11 @@ encoding: UTF-8
 ###########
 # site.title, site.url, site.author.name
 
-title:   'Codeleft'
-path:    /codeleft
-url:     'http://codeleft.org'
+title:   'Mönsterstudion'
+path:    /monsterstudion
+url:     'https://dacre.github.io/monsterstudion/'
 author:
-  name:  'Codeleft'
+  name:  'dacre'
 
 ########
 # more settings
